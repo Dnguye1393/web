@@ -1,27 +1,25 @@
 *comment Copyright 2010 by Dan Fabulich.
-*comment 
+*comment
 *comment Dan Fabulich licenses this file to you under the
 *comment ChoiceScript License, Version 1.0 (the "License"); you may
-*comment not use this file except in compliance with the License. 
+*comment not use this file except in compliance with the License.
 *comment You may obtain a copy of the License at
-*comment 
+*comment
 *comment  http://www.choiceofgames.com/LICENSE-1.0.txt
-*comment 
+*comment
 *comment See the License for the specific language governing
 *comment permissions and limitations under the License.
-*comment 
+*comment
 *comment Unless required by applicable law or agreed to in writing,
 *comment software distributed under the License is distributed on an
 *comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
 *comment either express or implied.
 
-*title My First ChoiceScript Game
-*author Anonymous
+*title Repercussions
+*author TenchiSaWaDa
 *scene_list
   startup
   animal
-  variables
-  gosub
   ending
   death
 
@@ -34,7 +32,7 @@ Copyright 2010 by Dan Fabulich.
 
 Dan Fabulich licenses this file to you under the
 ChoiceScript License, Version 1.0 (the "License"); you may
-not use this file except in compliance with the License. 
+not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
 *link http://www.choiceofgames.com/LICENSE-1.0.txt
